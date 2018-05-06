@@ -1,0 +1,8 @@
+F:\tournament\TrackerLibarry\TrackerLibarry\bin\Debug\TrackerLibarry.dll
+F:\tournament\TrackerLibarry\TrackerLibarry\bin\Debug\TrackerLibarry.pdb
+F:\tournament\TrackerLibarry\TrackerLibarry\obj\Debug\TrackerLibarry.csprojResolveAssemblyReference.cache
+F:\tournament\TrackerLibarry\TrackerLibarry\obj\Debug\TrackerLibarry.csproj.CoreCompileInputs.cache
+F:\tournament\TrackerLibarry\TrackerLibarry\obj\Debug\TrackerLibarry.dll
+F:\tournament\TrackerLibarry\TrackerLibarry\obj\Debug\TrackerLibarry.pdb
+F:\tournament\TrackerLibarry\TrackerLibarry\bin\Debug\Dapper.dll
+F:\tournament\TrackerLibarry\TrackerLibarry\bin\Debug\Dapper.xml

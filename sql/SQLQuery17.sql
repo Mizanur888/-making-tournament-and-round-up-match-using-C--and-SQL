@@ -1,0 +1,1 @@
+exec [Tournament].[dbo].[spPric_sample]
